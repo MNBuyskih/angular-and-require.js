@@ -1,0 +1,9 @@
+{
+  "name": "ng + rq",
+  "private": true,
+  "dependencies": {
+    "requirejs": "~2.1.22",
+    "angular": "~1.4.9",
+    "angular-ui-router": "^0.2.17"
+  }
+}
